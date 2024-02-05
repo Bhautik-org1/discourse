@@ -122,7 +122,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Bhautik-org1/discourse](https://github.com/Bhautik-org1/discourse)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|207<br/>Tools used|02/02/24 <br/>Report generated|
+|207<br/>Tools used|02/05/24 <br/>Report generated|
 |------|------|
 </div>
 
